@@ -1,0 +1,97 @@
+{
+  "species": "cobblemon:florges",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": ["flower-expansion-purple"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_purple.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_purple.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-black"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_black.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_black.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-green"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_green.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-cyan"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_cyan.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_cyan.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-brown"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_brown.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_brown.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-purple", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_purple_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_purple.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-black", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_black_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_black.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-green", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_green_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-cyan", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_cyan_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_cyan.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-expansion-brown", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_brown_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0671_florges/florges_flower_brown.png"
+        }
+      ]
+    }
+  ]
+}
+

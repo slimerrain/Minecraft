@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:ledyba",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["female"],
+      "model": "cobblemon:ledyba_female.geo",
+      "texture": "cobblemon:textures/pokemon/0165_ledyba/ledyba_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0165_ledyba/ledyba_female_shiny.png"
+    }
+  ]
+}

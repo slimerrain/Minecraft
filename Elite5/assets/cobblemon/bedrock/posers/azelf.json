@@ -1,0 +1,90 @@
+{
+    "head": "Head",
+    "portraitScale": 1.5,
+    "portraitTranslation": [ -0.2, 0.5, 0 ],
+    "profileScale": 0.5,
+    "profileTranslation": [ 0, -0.5, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "look",
+          "bedrock(azelf, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": [
+              "bedrock(azelf, blink)"
+            ]
+          }
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ 
+          "look",
+          "bedrock(azelf, ground_walk)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": [
+              "bedrock(azelf, blink)"
+            ]
+          }
+        ]
+      },
+      "shoulder_left": {
+        "poseName": "shoulder_left",
+        "transformTicks": 5,
+        "poseTypes": [ "SHOULDER_LEFT" ],
+        "animations": [
+          "look",
+          "bedrock(azelf, shoulder_left)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": [
+              "bedrock(azelf, blink)"
+            ]
+          }
+        ]
+      },
+      "shoulder_right": {
+        "poseName": "shoulder_right",
+        "transformTicks": 5,
+        "poseTypes": [ "SHOULDER_RIGHT" ],
+        "animations": [
+          "look",
+          "bedrock(azelf, shoulder_right)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": [
+              "bedrock(azelf, blink)"
+            ]
+          }
+        ]
+      },
+      "sleeping": {
+        "poseName": "sleeping",
+        "transformTicks": 10,
+        "poseTypes": [ "SLEEP" ],
+        "animations": [
+          "bedrock(azelf, sleep)"
+        ]
+      }
+    }
+  }

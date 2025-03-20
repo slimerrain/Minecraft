@@ -1,0 +1,1 @@
+{"variants":{"attached=false,east=true,disarmed=true,south=true,powered=true,west=true,north=true":[{"model":"polymer:block/empty","x":0,"y":0,"uvlock":false,"weight":1}],"attached=true,east=true,disarmed=true,south=true,powered=true,west=true,north=true":[{"model":"polymer:block/empty","x":0,"y":0,"uvlock":false,"weight":1}]}}
