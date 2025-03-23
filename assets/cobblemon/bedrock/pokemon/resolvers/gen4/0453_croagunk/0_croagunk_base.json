@@ -1,0 +1,20 @@
+{
+	"species": "cobblemon:croagunk",
+	"order": 0,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "genomons:croagunk",
+			"model": "genomons:croagunk.geo",
+			"texture": "genomons:textures/pokemon/0453_croagunk/croagunk.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ 
+				"shiny" ],
+			"texture": "genomons:textures/pokemon/0453_croagunk/croagunk_shiny.png"
+		}
+	]
+}
