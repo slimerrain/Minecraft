@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "borukva-food:block/lemon_planks",
-    "side": "borukva-food:block/lemon_planks",
-    "top": "borukva-food:block/lemon_planks"
-  }
-}

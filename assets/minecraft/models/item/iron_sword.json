@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_sword"},"overrides":[{"model":"borukva-food:item/knife","predicate":{"custom_model_data":2}},{"model":"borukva-food:item/harvest_sickle","predicate":{"custom_model_data":3}}]}
